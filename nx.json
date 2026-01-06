@@ -9,9 +9,7 @@
     {
       "plugin": "@nx/js/typescript",
       "options": {
-        "typecheck": {
-          "targetName": "typecheck"
-        },
+        "typecheck": { "targetName": "typecheck" },
         "build": {
           "targetName": "build",
           "configName": "tsconfig.lib.json",
@@ -20,5 +18,7 @@
         }
       }
     }
-  ]
+  ],
+  "nxCloudId": "695d74bcc62f60c19adb7199",
+  "nxCloudUrl": "https://staging.nx.app"
 }
